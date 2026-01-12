@@ -2,8 +2,6 @@
 
 This Python script monitors a folder for PNG images, converts them into a **128×64 monochrome XBM format**, and transmits the image data to an **ESP32 over Bluetooth (Serial)** using a custom packet protocol.
 
-It is ideal for projects such as **HUD helmet displays, OLED screens, or embedded ESP32 graphics applications**.
-
 ---
 
 ## Features
