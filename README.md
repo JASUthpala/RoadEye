@@ -1,5 +1,11 @@
 **Smart Helmet Mobile Application**  
 ---
+**📌 Overview**
+
+**The Smart Helmet Mobile Application is a Flutter-based cross-platform mobile app developed as part of a Smart Helmet safety system. The app connects to a Bluetooth-enabled helmet (ESP32-based) to monitor helmet connectivity and support future rider safety features.
+This project is currently under development, with the mobile application serving as the foundation for real-time communication between the helmet hardware and the user**
+
+---
 
 **🎯 Project Objectives:**  
 
